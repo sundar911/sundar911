@@ -1,4 +1,4 @@
-- Hi, I’m Sundar Raghavan, a first year graduate student at the University of Illinois at Urbana-Champaign
+- Hi, I’m Sundar Raghavan, a 2nd year graduate student at the University of Illinois at Urbana-Champaign
 - I have a keen interest in applying data science and machine learning principles to solve business problems
 - Recently, I completed a 12 week long internship as a data analyst at Cepheid where I was responsible for preparing and analyzing data related to root causes of medical instrument failures.
 - I was involved in research regarding users' risk perceptions towards AI technologies (with a special focus on autonomous vehicles and recommendation algorithms) and its role in technology adoption.
