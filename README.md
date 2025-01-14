@@ -5,6 +5,7 @@
 - I have extensive experience in text mining and have worked with state of the art deep learning text classification models, topic models, and sentiment analysis modules, to name a few.
 - I am the ex-head of data analytics at SIGMA - The Business Club of NITT where I worked with sophomore and junior year students and oversaw multiple projects in the intersection of data science and business.
 - I am actively seeking full time data roles for 2025
+- Skills: Proficient: Python (Pandas, PyTorch, Snowpark, sklearn), Snowflake, PowerBI, DAX, R, Powerpoint; Intermediate: MS SQL, PostGreSQL, AWS (Redshift, S3, EC2, Sagemaker), DAX Studio, Tableau, Excel, Talend, Docker, MongoDB, Neo4J, Redis
 - Mail: sundarr.nitt@gmail.com, sundarr2@illinois.edu
 - Phone: +1 541 905 2047
 
